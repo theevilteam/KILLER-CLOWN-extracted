@@ -1,0 +1,1 @@
+start C:\java\protection\DisDef.exe /D

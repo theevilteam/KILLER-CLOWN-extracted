@@ -1,0 +1,1 @@
+reg import C:\java\ban\key.reg
